@@ -1,63 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="mediasoft.com.AppTest" time="0.072" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="mediasoft.com.AppTest" time="0.055" tests="1" errors="0" skipped="0" failures="0">
   <properties>
-    <property name="java.specification.version" value="21"/>
+    <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\MSI\Desktop\stage\exposé\test_app\target\test-classes;C:\Users\MSI\Desktop\stage\exposé\test_app\target\classes;C:\Users\MSI\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
-    <property name="java.vm.vendor" value="OpenLogic"/>
+    <property name="java.class.path" value="C:\Users\Craft\Desktop\expose\plugin-maven-gitflow-expose\target\test-classes;C:\Users\Craft\Desktop\expose\plugin-maven-gitflow-expose\target\classes;C:\Users\Craft\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
-    <property name="java.vendor.url" value="https://openlogic.com/"/>
-    <property name="user.timezone" value="Etc/UTC"/>
-    <property name="os.name" value="Windows 10"/>
-    <property name="java.vm.specification.version" value="21"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Africa/Lome"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="FR"/>
-    <property name="sun.boot.library.path" value="C:\flutterDev\JDK\bin"/>
-    <property name="sun.java.command" value="C:\Users\MSI\AppData\Local\Temp\surefire13163909082548602626\surefirebooter-20240815224407087_3.jar C:\Users\MSI\AppData\Local\Temp\surefire13163909082548602626 2024-08-15T22-44-05_296-jvmRun1 surefire-20240815224407087_1tmp surefire_0-20240815224407087_2tmp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\Craft\AppData\Local\Temp\surefire16070624556316726473\surefirebooter-20240816160701524_3.jar C:\Users\Craft\AppData\Local\Temp\surefire16070624556316726473 2024-08-16T16-06-59_819-jvmRun1 surefire-20240816160701524_1tmp surefire_0-20240816160701524_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\MSI\Desktop\stage\exposé\test_app\target\test-classes;C:\Users\MSI\Desktop\stage\exposé\test_app\target\classes;C:\Users\MSI\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\Craft\Desktop\expose\plugin-maven-gitflow-expose\target\test-classes;C:\Users\Craft\Desktop\expose\plugin-maven-gitflow-expose\target\classes;C:\Users\Craft\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
-    <property name="user.home" value="C:\Users\MSI"/>
+    <property name="user.home" value="C:\Users\Craft"/>
     <property name="user.language" value="fr"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="java.version.date" value="2024-04-16"/>
-    <property name="java.home" value="C:\flutterDev\JDK"/>
+    <property name="java.version.date" value="2023-10-17"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\MSI\Desktop\stage\exposé\test_app"/>
-    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="basedir" value="C:\Users\Craft\Desktop\expose\plugin-maven-gitflow-expose"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\MSI\AppData\Local\Temp\surefire13163909082548602626\surefirebooter-20240815224407087_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Craft\AppData\Local\Temp\surefire16070624556316726473\surefirebooter-20240816160701524_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="java.runtime.version" value="21.0.3+1-adhoc.Administrator.jdk21u"/>
-    <property name="user.name" value="MSI"/>
-    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="java.runtime.version" value="17.0.9+11-LTS-201"/>
+    <property name="user.name" value="Craft"/>
     <property name="path.separator" value=";"/>
     <property name="os.version" value="10.0"/>
-    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
-    <property name="file.encoding" value="UTF-8"/>
-    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
-    <property name="java.vendor.version" value="OpenLogic-OpenJDK"/>
-    <property name="localRepository" value="C:\Users\MSI\.m2\repository"/>
-    <property name="java.vendor.url.bug" value="https://techsupport.roguewave.com/"/>
-    <property name="java.io.tmpdir" value="C:\Users\MSI\AppData\Local\Temp\"/>
-    <property name="java.version" value="21.0.3"/>
-    <property name="user.dir" value="C:\Users\MSI\Desktop\stage\exposé\test_app"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Craft\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Craft\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.9"/>
+    <property name="user.dir" value="C:\Users\Craft\Desktop\expose\plugin-maven-gitflow-expose"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\flutterDev\JDK\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\MSI\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\MSI\AppData\Local\Programs\Python\Python312\;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Users\MSI\AppData\Local\Programs\Python\Python312\Lib\site-packages\pip (python 3.12);C:\Users\MSI\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\commandlinetools-win-11076708_latest\cmd;C:\Godot\Godot_v4.1.3-stable_mono_win64\Godot_v4.1.3-stable_mono_win64;C:\Program Files\Java\jdk-20\bin;C:\Program Files\dotnet\;C:\flutterDev\flutter\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\dotnet\;C:\Firebase;C:\xampp\php;C:\composer;C:\flutterDev\AndroidSdk\platform-tools;C:\Program Files\nodejs\;C:\Program Files (x86)\Wget\bin;C:\flutterDev\flutter\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\MSI\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\MSI\AppData\Local\Programs\Python\Python312\;C:\Users\MSI\AppData\Local\Microsoft\WindowsApps;C:\Users\MSI\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\MSI\Documents\dev\flutter\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\MSI\Documents\php-environnement;C:\Users\MSI\AppData\Roaming\nvm;C:\Program Files\nodejs;%PyCharm Community Edition%;C:\Program Files\nodejs\node_modules\npm\bin;C:\Program Files\nodejs;C:\Users\MSI\AppData\Roaming\nvm;C:\commandlinetools-win-11076708_latest\cmdline-tools\bin;C:\Users\MSI\.dotnet\tools;C:\Users\MSI\AppData\Roaming\Composer\vendor\bin;C:\Godot\Godot_v4.1.3-stable_mono_win64\Godot_v4.1.3-stable_mono_win64;C:\Users\MSI\Documents\Godot_v4.2.1-stable_win64.exe~1;C:\tools\dart-sdk\bin;C:\Users\MSI\AppData\Local\Pub\Cache\bin;%PhpStorm%;C:\Users\MSI\AppData\Roaming\npm;C:\Program Files\PostgreSQL\16\pgAdmin 4\python;C:\Program Files\PostgreSQL\16\pgAdmin 4\runtime;C:\Program Files\PostgreSQL\16\pgAdmin 4\web;C:\Users\MSI\AppData\Roaming\pgadmin;C:\Program Files (x86)\Wget\bin;C:\apache-maven-3.9.8\bin;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\flutter\flutter\bin;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\Craft\Downloads\platform-tools-latest-windows\platform-tools;C:\Program Files\Git\cmd;C:\Users\Craft\Documents\wget.exe;C:\Users\Craft\Downloads\apache-maven-3.9.8-bin\apache-maven-3.9.8\bin;C:\Users\Craft\Downloads\maeven\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Craft\AppData\Local\Programs\Python\Launcher\;C:\Users\Craft\AppData\Local\Microsoft\WindowsApps;C:\Users\Craft\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Craft\AppData\Roaming\npm;C:\Users\Craft\AppData\Roaming\Composer\vendor\bin;C:\Users\Craft\.dotnet\tools;C:\Users\Craft\Downloads\platform-tools-latest-windows\platform-tools;;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
-    <property name="stderr.encoding" value="Cp1252"/>
-    <property name="java.vendor" value="OpenLogic"/>
-    <property name="java.vm.version" value="21.0.3+1-adhoc.Administrator.jdk21u"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.9+11-LTS-201"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="java.class.version" value="65.0"/>
+    <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testApp" classname="mediasoft.com.AppTest" time="0.0"/>
+  <testcase name="testApp" classname="mediasoft.com.AppTest" time="0.007"/>
 </testsuite>
